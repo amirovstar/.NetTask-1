@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{8939DA29-F32A-4EE6-A066-C1F52D2DEC2A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebApp/Program.cs">
+    <Files>
+      <File FileName="WebApp/Program.cs" Line="9" Column="49" />
+      <File FileName="WebApp/Models/Product.cs" Line="5" Column="28" />
+      <File FileName="WebApp/Controllers/HomeController.cs" Line="15" Column="1" />
+      <File FileName="WebApp/Controllers/ProductController.cs" Line="37" Column="43" />
+      <File FileName="WebApp/Views/Shared/Error.cshtml" Line="4" Column="22" />
+      <File FileName="WebApp/Views/Product/Detail.cshtml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WebApp" expanded="True">
+            <Node name="WebApp" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Product" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.WebApp PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
